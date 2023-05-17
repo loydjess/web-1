@@ -1,14 +1,3 @@
-#content {
-    max-width: 1600px;
-    margin: 0 auto;
-}
-
-#nav a {
-    text-align: center;
-    color: #fcfbfb;
-    text-decoration: none;
-}    
-
 #background {
     height: 725px;
 }
@@ -21,18 +10,18 @@ header {
 }
 nav a:hover {
     background-color: black;
-    color: #d9c2a3;
-}    
-
-.icon {
-    width: 80px;
 }
-
-footer p {
-    font-size: 1.2em;
-}    
-
 footer p a:hover {
     text-decoration: underline;
 }    
-        
+footer p {
+    font-size: 1.2em;
+}    
+nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+} 
+.icon {
+    width: 80px;
+}
