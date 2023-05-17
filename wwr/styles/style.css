@@ -1,27 +1,4 @@
-#background {
-    height: 725px;
+#content {
+  max-width: 1600px;
 }
 
-body {
-    background-color: #fcfbfb; 
-}
-header {
-    background-color:rgba(20,30,13, .7);
-}
-nav a:hover {
-    background-color: black;
-}
-footer p a:hover {
-    text-decoration: underline;
-}    
-footer p {
-    font-size: 1.2em;
-}    
-nav a {
-    text-align: center;
-    color: #fcfbfb;
-    text-decoration: none;
-} 
-.icon {
-    width: 80px;
-}
