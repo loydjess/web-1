@@ -1,4 +1,13 @@
-#content {
-  max-width: 1600px;
-}
+footer p a:hover {
+    text-decoration: underline;
+}   
 
+footer p {
+    font-size: 1.2em;
+}  
+
+nav a {
+    text-align: center;
+    color: #ef9393;
+    text-decoration: none;
+}   
